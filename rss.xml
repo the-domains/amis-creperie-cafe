@@ -4,7 +4,7 @@
         <description><![CDATA[Advocate Community, Source Locally, Operate Sustainably]]></description>
         <link>https://thegrid.ai/amis-creperie-cafe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 17:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 22:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/amis-creperie-cafe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/amis-creperie-cafe/405b6369-4249-48d4-88d4-9121e2a71b6e/index.html</link>
             <guid isPermaLink="false">405b6369-4249-48d4-88d4-9121e2a71b6e</guid>
             <pubDate>Sun, 20 Dec 2015 17:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are testing a new website building service!</p>]]></description>
-            <link>https://thegrid.ai/amis-creperie-cafe/fa9a0f3e-f7ad-4818-a790-a810e9b83979/index.html</link>
-            <guid isPermaLink="false">fa9a0f3e-f7ad-4818-a790-a810e9b83979</guid>
-            <pubDate>Sun, 20 Dec 2015 17:16:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
